@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\black\desktop\project2\project2\소스.cpp(42): warning C4129: '*': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\black\desktop\project2\project2\소스.cpp(55): warning C4129: '*': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  Project2.vcxproj -> C:\Users\black\Desktop\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\black\Desktop\Project2\Debug\Project2.pdb (Partial PDB)
